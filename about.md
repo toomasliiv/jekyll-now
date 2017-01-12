@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I study Engineering Physics at KTH Royal Institute och Technology in Stockholm, Sweden. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[toomas.liiv@outlook.com](mailto:toomasliiv@outlook.com)
